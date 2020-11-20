@@ -38,6 +38,8 @@ displayed to the user.
 
 The required code is availabe in the <app.js> file.
 
+TO RUN THE SERVER
+
 To test the application, open the directory <API_for_Reading_Logs> in cmd and run the command
 <node app.js> or <nodemon> in the command line, which will run the application on the local
 host port 3000.
